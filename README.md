@@ -67,4 +67,4 @@ A portfolio investigating the music trend on spotify 2023, including these busin
 
 ![Spotify Artist Drill Through](https://github.com/Zhihao9/PowerBI-Portfolio/blob/main/spotify_drill_through_artist.png)
 
-
+![Spotify Track Drill Through](https://github.com/Zhihao9/PowerBI-Portfolio/blob/main/spotify_drill_through_track.png)
