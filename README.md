@@ -5,13 +5,13 @@ It is a Power BI portfolio of Zhao Zhihao, LinkedIn: [here](https://www.linkedin
 
 It now includes two Power BI works: Olist E-commerce and Most streamed Spotify Songs.
 
-1. Olist E-commerce (OlistOrder.pbix)
-1.1 Data
+# Olist E-commerce (OlistOrder.pbix)
+## Data
 a Brazilian ecommerce public dataset of orders made at Olist Store, including information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. There are more than seven tables.
 
 Source: [href](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
 
-1.2 Questions
+## Questions
 In this portfolio, the customers and sellers' behavior and distribution are investigated. Several business questions are formulated:
 - What type of products customers like to purchase?
 - How the customers and sellers are distributed?
@@ -19,7 +19,7 @@ In this portfolio, the customers and sellers' behavior and distribution are inve
 - When do customers would like to purchase products?
 - How many orders were dilivered succesfully?
 
-1.3 Technical Highlights
+## Technical Highlights
 - Complex datasets and relation management. This dataset includes six tables;
 - Power queiry to inspect and preprocess the dataset; 
 - DAX: Time intelligencem, FORMAT() function;
@@ -27,9 +27,9 @@ In this portfolio, the customers and sellers' behavior and distribution are inve
 - Drill Through and Slicers;
 - Manage the visibility of visuals by using bookmarks and buttons;
 
-1.4 Portfolio Screenshot
+## Portfolio Screenshot
 
 
 
 
-2. Most streamed Spotify Songs 
+# Most streamed Spotify Songs 
